@@ -1,0 +1,8 @@
+{
+  "name": "TFX ID",
+  "description": "Professional Institutional Trading Laboratory. Analysis, Signals, School, and AI Problem Solver.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
